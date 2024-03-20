@@ -1,4 +1,4 @@
-First clone the repository and run the code in the notebook then run the make commands that are:
+Initially, clone the repository and execute the code provided in the notebook. Subsequently, proceed to run the following make commands:
 to build an image:
           make build
 to run a container:
